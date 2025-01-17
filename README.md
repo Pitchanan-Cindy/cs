@@ -1,2 +1,2 @@
-# cs290
+# cs361
 First repository 
